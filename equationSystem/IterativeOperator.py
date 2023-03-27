@@ -83,3 +83,6 @@ def gaussMethod():
     print('el valor de x3 es: '+str(nowx3))
     print('El error porcentual de x3 es: '+str(x3error))    
     print('fin de programa')
+
+
+    
