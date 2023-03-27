@@ -43,8 +43,8 @@ def jacobiMethod():
         
 def gaussMethod():
     lastx1=round((0.4+(0)+(0))/2,5)
-    lastx2=round((4.7-3*(0)-2*(0))/5,5)
-    lastx3=round((7.9-(0)-3*(0))/4,5)
+    lastx2=round((4.7-3*(lastx1)-2*(0))/5,5)
+    lastx3=round((7.9-(lastx1)-3*(lastx2))/4,5)
     nowx1=lastx1
     nowx2=lastx2
     nowx3=lastx3

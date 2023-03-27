@@ -40,7 +40,7 @@ def graficFunction():
     plt.grid()
     plt.ion()
     plt.draw()
-    plt.pause(5)
+    plt.pause(6)
 
 
 def f(x):
